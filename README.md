@@ -1,4 +1,4 @@
-# 📊 Instagram Profile Analysis
+#  Instagram Profile Analysis
 
 Hi! 👋
 
